@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rainbowCounter/static/css/main.0b1666ce.chunk.css",
+    "main.js": "/rainbowCounter/static/js/main.3bfd15f7.chunk.js",
+    "main.js.map": "/rainbowCounter/static/js/main.3bfd15f7.chunk.js.map",
+    "runtime-main.js": "/rainbowCounter/static/js/runtime-main.7c9eda6f.js",
+    "runtime-main.js.map": "/rainbowCounter/static/js/runtime-main.7c9eda6f.js.map",
+    "static/js/2.567dfb66.chunk.js": "/rainbowCounter/static/js/2.567dfb66.chunk.js",
+    "static/js/2.567dfb66.chunk.js.map": "/rainbowCounter/static/js/2.567dfb66.chunk.js.map",
+    "static/js/3.e4c05f9b.chunk.js": "/rainbowCounter/static/js/3.e4c05f9b.chunk.js",
+    "static/js/3.e4c05f9b.chunk.js.map": "/rainbowCounter/static/js/3.e4c05f9b.chunk.js.map",
+    "index.html": "/rainbowCounter/index.html",
+    "static/css/main.0b1666ce.chunk.css.map": "/rainbowCounter/static/css/main.0b1666ce.chunk.css.map",
+    "static/js/2.567dfb66.chunk.js.LICENSE.txt": "/rainbowCounter/static/js/2.567dfb66.chunk.js.LICENSE.txt",
+    "static/media/rainbow.a8ac5237.svg": "/rainbowCounter/static/media/rainbow.a8ac5237.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c9eda6f.js",
+    "static/js/2.567dfb66.chunk.js",
+    "static/css/main.0b1666ce.chunk.css",
+    "static/js/main.3bfd15f7.chunk.js"
+  ]
+}
