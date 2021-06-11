@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rainbow-counter/static/css/main.0b1666ce.chunk.css",
-    "main.js": "/rainbow-counter/static/js/main.3bfd15f7.chunk.js",
-    "main.js.map": "/rainbow-counter/static/js/main.3bfd15f7.chunk.js.map",
-    "runtime-main.js": "/rainbow-counter/static/js/runtime-main.bb2bb21e.js",
-    "runtime-main.js.map": "/rainbow-counter/static/js/runtime-main.bb2bb21e.js.map",
-    "static/js/2.567dfb66.chunk.js": "/rainbow-counter/static/js/2.567dfb66.chunk.js",
-    "static/js/2.567dfb66.chunk.js.map": "/rainbow-counter/static/js/2.567dfb66.chunk.js.map",
-    "static/js/3.e4c05f9b.chunk.js": "/rainbow-counter/static/js/3.e4c05f9b.chunk.js",
-    "static/js/3.e4c05f9b.chunk.js.map": "/rainbow-counter/static/js/3.e4c05f9b.chunk.js.map",
-    "index.html": "/rainbow-counter/index.html",
-    "static/css/main.0b1666ce.chunk.css.map": "/rainbow-counter/static/css/main.0b1666ce.chunk.css.map",
-    "static/js/2.567dfb66.chunk.js.LICENSE.txt": "/rainbow-counter/static/js/2.567dfb66.chunk.js.LICENSE.txt",
-    "static/media/rainbow.a8ac5237.svg": "/rainbow-counter/static/media/rainbow.a8ac5237.svg"
+    "main.css": "/test/static/css/main.0b1666ce.chunk.css",
+    "main.js": "/test/static/js/main.4b793cba.chunk.js",
+    "main.js.map": "/test/static/js/main.4b793cba.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.4bf57d88.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.4bf57d88.js.map",
+    "static/js/2.567dfb66.chunk.js": "/test/static/js/2.567dfb66.chunk.js",
+    "static/js/2.567dfb66.chunk.js.map": "/test/static/js/2.567dfb66.chunk.js.map",
+    "static/js/3.e4c05f9b.chunk.js": "/test/static/js/3.e4c05f9b.chunk.js",
+    "static/js/3.e4c05f9b.chunk.js.map": "/test/static/js/3.e4c05f9b.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.0b1666ce.chunk.css.map": "/test/static/css/main.0b1666ce.chunk.css.map",
+    "static/js/2.567dfb66.chunk.js.LICENSE.txt": "/test/static/js/2.567dfb66.chunk.js.LICENSE.txt",
+    "static/media/rainbow.a8ac5237.svg": "/test/static/media/rainbow.a8ac5237.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb2bb21e.js",
+    "static/js/runtime-main.4bf57d88.js",
     "static/js/2.567dfb66.chunk.js",
     "static/css/main.0b1666ce.chunk.css",
-    "static/js/main.3bfd15f7.chunk.js"
+    "static/js/main.4b793cba.chunk.js"
   ]
 }
